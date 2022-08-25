@@ -10,3 +10,5 @@ for passenger in range(1, 51) :
         print("[ ] {0}번째 손님 (소요시간 : {1}분)".format(passenger, time))
 
 print("총 탑습 승객 : {0} 분".format(count))
+
+print("추가했다 이부분")
